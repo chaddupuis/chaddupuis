@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- My "side gig" is as a full stack developer, devops engineer, and author for the [https://yinyanghouse.com/](Yin Yang House).  The Yin Yang House is a freely provided informational / community website for Acupuncturists and those interested in Chinese Medicine.  It has been operational for over 20 years ([https://web.archive.org/web/20021016021511/http://www.yinyanghouse.com/](from wayback...)) and has readers from around the globe.  I was an acupuncturist and tai chi/qi gong instructor within the Yin Yang House Clinics (in Massachusetts and Tennessee) for many years before returning full-time to the world of tech.
+- My "side gig" is as a full stack developer, devops engineer, and author for the [Yin Yang House](https://yinyanghouse.com/).  The Yin Yang House is a freely provided informational / community website for Acupuncturists and those interested in Chinese Medicine.  It has been operational for over 20 years ([from wayback...](https://web.archive.org/web/20021016021511/http://www.yinyanghouse.com/)) and has readers from around the globe.  I was an acupuncturist and tai chi/qi gong instructor within the Yin Yang House Clinics (in Massachusetts and Tennessee) for many years before returning full-time to the world of tech.
 
 - Primary tools for the Yin Yang House:  python/django, bash, ansible, github actions.
 
