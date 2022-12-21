@@ -17,4 +17,4 @@
 > :mag: Kubernetes and on-prem/cloud ci/cd pipelines.
 
 ***
->> When I'm not working, I'm (hopefully) riding my bike...
+>> When I'm not working, I'm (hopefully) riding my bike... :bike: :bike: :bike:
