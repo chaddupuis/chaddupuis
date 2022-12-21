@@ -11,6 +11,7 @@
 > Primary tools:  python/django, bash, ansible, github actions.
 
 ***
+>> [View my gists](https://gist.github.com/chaddupuis)
 
 #### Current Explorations
 > Kubernetes and on-prem/cloud ci/cd pipelines.
