@@ -3,7 +3,7 @@
 #### My "side gig"
 Full stack developer, devops engineer, and author for the [Yin Yang House](https://yinyanghouse.com/).  The Yin Yang House is a freely provided informational / community website for Acupuncturists and those interested in Chinese Medicine.  It has been operational for over 20 years ([from wayback...](https://web.archive.org/web/20021016021511/http://www.yinyanghouse.com/)) and has readers from around the globe.  I was an acupuncturist and tai chi/qi gong instructor within the Yin Yang House Clinics (in Massachusetts and Tennessee) for many years before returning full-time to the world of tech.
 
-> Primary tools for the Yin Yang House:  python/django, bash, ansible, github actions.
+> Primary tools:  python/django, bash, ansible, github actions.
 
 ***
 
@@ -15,7 +15,7 @@ Linux systems administrator / devops engineer at the University of Minnesota wit
 ***
 
 #### Current Explorations
-Kubernetes and on-prem/cloud ci/cd pipelines.
+> Kubernetes and on-prem/cloud ci/cd pipelines.
 
 ***
 >> When I'm not working, I'm (hopefully) riding my bike...
