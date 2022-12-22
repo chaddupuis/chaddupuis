@@ -11,7 +11,7 @@
 > :bulb: Primary tools:  python/django, bash, ansible, github actions.
 
 ***
-##### Decades of IT Experience in Higher Ed :: U Minnesota, MIT, U Arizona, UC Santa Cruz, U San Francisco, Michigan State U
+##### :school: Decades of IT Experience in Higher Ed :: U Minnesota, MIT, U Arizona, UC Santa Cruz, U San Francisco, Michigan State U.  BS in Information Systems from U of Arizona, M.Ac. from the Massachusetts College of Pharmacy and Health Sciences
 >> :high_brightness: [View my gists](https://gist.github.com/chaddupuis)
 >
 >> :bowtie: [Linkedin](https://www.linkedin.com/in/chadjdupuis/)
