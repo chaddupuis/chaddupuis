@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 #### I work as a Linux Sys Admin / Dev Ops Engineer
+##### Decades in higher ed IT (UMN, MIT, U Arizona, UCSC, USF, MSU)
 
 - at the University of Minnesota within the [Health Sciences](https://it.umn.edu/services-technologies/find-health-sciences-technology-services) Infrastructure and Applications Hosting Team.  We offer a hipaa compliant environment for medical research and associated functions.  Broad linux/windows environment with many ruby on rails web apps and AI/ML medical research processing among many other things.  
 
