@@ -12,6 +12,7 @@
 
 ***
 >> :high_brightness: [View my gists](https://gist.github.com/chaddupuis)
+>
 >> :bowtie: [Linkedin](https://www.linkedin.com/in/chadjdupuis/)
 
 #### Current Explorations
