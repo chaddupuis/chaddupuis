@@ -16,7 +16,7 @@
 >
 >> :bowtie: [Linkedin](https://www.linkedin.com/in/chadjdupuis/)
 >
->> :mortar_board: [Resume](https://yyhmsg.net/resume-cdupuis-2023-webv.pdf)
+>> :mortar_board: [Resume](https://yyhmsg.net/resume-cdupuis-webv.pdf)
 
 #### Current Explorations
 > :mag: Kubernetes and on-prem/cloud ci/cd pipelines.
