@@ -17,6 +17,8 @@
 >> :bowtie: [Linkedin](https://www.linkedin.com/in/chadjdupuis/)
 >
 >> :mortar_board: [Resume](https://yyhmsg.net/resume-cdupuis-webv.pdf)
+>
+>> :necktie: [Portfolio Site](https://yyhmsg.net/)
 
 #### Current Explorations
 > :mag: Kubernetes and on-prem/cloud ci/cd pipelines.
