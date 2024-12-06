@@ -16,7 +16,7 @@
 >
 >> :bowtie: [Linkedin](https://www.linkedin.com/in/chadjdupuis/)
 >
->> :mortar_board: [Resume](https://yyhmsg.net/resume-cdupuis-webv.pdf)
+>> :mortar_board: [Resume](https://yyhmsg.net/_astro/chad-dupuis-tech-resume-webv.CY2x7csA.pdf)
 >
 >> :necktie: [Portfolio Site](https://yyhmsg.net/)
 
